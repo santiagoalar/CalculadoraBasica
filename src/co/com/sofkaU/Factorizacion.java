@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Factorizacion {
 
-    public double factorizar(int number){
+    public static double factorizar(int number){
         Scanner in = new Scanner(System.in);
         System.out.println("Ingrese le numero factorial:  ");
         number = in.nextInt();
@@ -13,7 +13,6 @@ public class Factorizacion {
             factorial=factorial*number;
             number--;
         }
-        //System.out.println(factorial);
         return factorial;
     }
 
