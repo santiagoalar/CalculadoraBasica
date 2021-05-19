@@ -1,0 +1,41 @@
+[33mcommit 084bccf1bff46644d37ca4cfa9c47c148ef146bf[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: juan carlos salcedo <juank9225@gmail.com>
+Date:   Wed May 19 12:17:37 2021 -0500
+
+    se crea un comentario en la funcio de factorial indicando a que se refiere el ejercicio, clase main
+
+[33mcommit 7d4ec70d18942e56d0449406eb5a1477f5c92073[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Santiago Alarcon <santiago-alar@hotmail.com>
+Date:   Wed May 19 12:10:29 2021 -0500
+
+    Agregar espacio final
+
+[33mcommit 4d52780b8393686049af620f68433c48bfc8fabf[m
+Author: Santiago Alarcon <santiago-alar@hotmail.com>
+Date:   Wed May 19 12:09:22 2021 -0500
+
+    Solucion final nueva version factorial.java
+
+[33mcommit 460847cdcc67badc72a736dfe1e10f2bc7b27c95[m
+Author: Santiago Alarcon <santiago-alar@hotmail.com>
+Date:   Wed May 19 12:08:21 2021 -0500
+
+    Solucion final factorial.java
+
+[33mcommit 0abb51ff6727878327f7898ddfdbcc5c12162346[m
+Author: Santiago Alarcon <santiago-alar@hotmail.com>
+Date:   Wed May 19 12:07:50 2021 -0500
+
+    Solucion final factorial.java
+
+[33mcommit e9261d576c1adf845d32478714219152961792ab[m
+Author: Santiago Alarcon <santiago-alar@hotmail.com>
+Date:   Wed May 19 12:01:22 2021 -0500
+
+    Crear clase Factorizacion.java
+
+[33mcommit c78cc535272e558fb806848af3f24d2c0a888ff6[m
+Author: OscarLopera <oscar.lopera@sofka.com.co>
+Date:   Wed May 19 09:42:28 2021 -0500
+
+    Esqueleto base del proyecto
