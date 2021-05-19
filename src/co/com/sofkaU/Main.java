@@ -1,19 +1,14 @@
 package co.com.sofkaU;
 
-import java.util.Scanner;
+import static co.com.sofkaU.Factorizacion.factorizar;
 
 
 public class Main {
 //metodo para crear el factorial de un numero
     public static void main(String[] args){
-        Scanner in = new Scanner(System.in);
-        System.out.println("Ingrese le numero factorial:  ");
-        int number = in.nextInt();
-        double factorial = 1;
-        while (number != 0){
-            factorial=factorial*number;
-            number--;
-        }
-        System.out.println(factorial);
+        System.out.println("Bienvenidos al menu");
+
+        System.out.println("El factorial es: " + factorizar());
+
     }
 }
