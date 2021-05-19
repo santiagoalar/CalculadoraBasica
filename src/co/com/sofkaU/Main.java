@@ -3,7 +3,7 @@ package co.com.sofkaU;
 import java.util.Scanner;
 
 public class Main {
-
+//metodo para crear el factorial de un numero
     public static void main(String[] args){
         Scanner in = new Scanner(System.in);
         System.out.println("Ingrese le numero factorial:  ");
