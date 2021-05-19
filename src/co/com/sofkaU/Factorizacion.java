@@ -9,8 +9,13 @@ public class Factorizacion {
         System.out.println("Ingrese le numero factorial:  ");
         int number = in.nextInt();
         double factorial = 1;
+        factorial = calcular(number, factorial);
+        return factorial;
+    }
+
+    private static double calcular(int number, double factorial) {
         while (number != 0){
-            factorial=factorial*number;
+            factorial = factorial * number;
             number--;
         }
         return factorial;
